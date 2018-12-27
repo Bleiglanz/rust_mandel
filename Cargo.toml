@@ -1,0 +1,7 @@
+[package]
+name = "rust_mandel"
+version = "0.1.0"
+authors = ["Anton Rechenauer <antonrechenauer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
